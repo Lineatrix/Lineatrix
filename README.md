@@ -2,7 +2,7 @@
 
 **Building Ecosystems in AI | Creating interconnected AI systems that work in harmony**
 
-We are **Lineatrix**, a technology company focused on crafting a single, impactful product with precision and innovation. Our name reflects our core philosophy: combining logical precision ("Linear") with complex system design ("Matrix").
+We are **Lineatrix**, a technology company focused on crafting  impactful products with precision and innovation. Our name reflects our core philosophy: combining logical precision ("Linear") with complex system design ("Matrix").
 
 ## 🚀 Our Mission: Ecosystems in AI
 
