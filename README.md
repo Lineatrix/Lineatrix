@@ -14,7 +14,7 @@ We are currently all-in on building **Ecosystems in AI**, a platform that enable
 
 ## 🛠️ Our Tech Stack
 
-`Python` `TensorFlow/PyTorch` `FastAPI` `React` `PostgreSQL` `Docker` `AWS/Azure`
+`Python` `C` `TensorFlow/PyTorch` `FastAPI` `React` `PostgreSQL` `Docker` `AWS/Azure`
 
 ## 🌱 Our Story
 
