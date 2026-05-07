@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Lineatrix.
+# 👋 Hello, World! We are Lineatrix.
 
 **Building Ecosystems in AI | Creating interconnected AI systems that work in harmony**
 
@@ -6,15 +6,16 @@ We are **Lineatrix**, a technology company focused on crafting  impactful produc
 
 ## 🚀 Our Mission: Ecosystems in AI
 
-We are currently all-in on building **Ecosystems in AI**, a platform that enables different AI models and tools to work together seamlessly as a unified system.
+Our objective is to move Forward.
+We are currently all-in on building **Ecosystems in AI**, a platform that enables different AI models and tools to work together seamlessly as a unified system. And developing decentralized, task-specific AI agents capable of high-fidelity research, code generation, and satellite data synthesis
 
 *   **The Problem:** Most AI tools operate in isolation, forcing users to juggle multiple disconnected applications and workflows.
 *   **Our Solution:** Ecosystems in AI creates bridges between different AI services, allowing them to share data and work cooperatively on complex tasks.
-*   **Status:** Early Development Phase 🚧
+*   **Status:** Mid Development Phase 🚧
 
 ## 🛠️ Our Tech Stack
 
-`Python` `C` `TensorFlow/PyTorch` `FastAPI` `React` `PostgreSQL` `Docker` `AWS/Azure`
+`Python` `Go` `TensorFlow/PyTorch` `FastAPI` `React` `PostgreSQL` `C++` `AWS/Azure` `Rust`
 
 ## 🌱 Our Story
 
